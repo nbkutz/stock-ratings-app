@@ -1,0 +1,5 @@
+{
+  "hostedBaseUrl": "https://nbkutz.github.io/stock-ratings-app/",
+  "remoteDataUrl": "https://nbkutz.github.io/stock-ratings-app/ratings-seed.json",
+  "bundledDataUrl": "./ratings-seed.json"
+}
